@@ -14,6 +14,7 @@
 무한 스크롤 배경 구현 <br/>
 * 플레이어가 이동할 때 방향에 맞춰서 배경이 스크롤 됨
 * MeshRenderer를 이용하여 Material의 offset를 변경하는 방법을 사용 <br/>
+
 <img width ="80%" src="https://user-images.githubusercontent.com/86179438/225326408-24218789-f258-43b5-9bca-f7179001eb17.mp4"/><br/>
 #### 피드백 <br/>
 * 배경 오브젝트를 플레이어 스크립트에 넣지 않아 nullreferenceexception 발생 
