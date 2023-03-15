@@ -18,3 +18,4 @@
 
 #### 피드백 <br/>
 * 배경 오브젝트를 플레이어 스크립트에 넣지 않아 nullreferenceexception 발생 
+  * [SerializeField]로 Background 변수 선언 후 오브젝트를 넣어 해결
