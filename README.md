@@ -1,4 +1,4 @@
-# TIL
+# CyberpunkGame.dev
 
 ## 사이버 펑크 게임개발일지
 
