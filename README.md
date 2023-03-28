@@ -33,3 +33,7 @@
 [23.03.23 (점프 버그 수정)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.03.21%20~%2023.03.27%20(2%EC%A3%BC%EC%B0%A8)/23.03.23%20(%EC%A0%90%ED%94%84%20%EB%B2%84%EA%B7%B8%20%EC%88%98%EC%A0%95).md) <br/>
 [23.03.24 (Enemy 피격 로직 수정, 스페셜 어택 데미지 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.03.21%20~%2023.03.27%20(2%EC%A3%BC%EC%B0%A8)/23.03.24%20(Enemy%20%ED%94%BC%EA%B2%A9%20%EB%A1%9C%EC%A7%81%20%EC%88%98%EC%A0%95,%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%96%B4%ED%83%9D%20%EB%8D%B0%EB%AF%B8%EC%A7%80%20%EA%B5%AC%ED%98%84).md) <br/>
 [23.03.27 (Player HP바 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.03.21%20~%2023.03.27%20(2%EC%A3%BC%EC%B0%A8)/23.03.27%20(Player%20HP%EB%B0%94%20%EA%B5%AC%ED%98%84).md) <br/>
+#### 구현
+* 스페셜 어택
+* Player HP UI  
+* 버그가 잠재돼있던 로직 수정
