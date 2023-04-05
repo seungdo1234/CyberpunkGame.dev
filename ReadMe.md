@@ -45,3 +45,12 @@
 
 [23.04.02 (플레이어 점프 어택 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.03.25%20~%2023.04.03%20(3%EC%A3%BC%EC%B0%A8)/23.04.02%20(%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%A0%90%ED%94%84%20%EA%B3%B5%EA%B2%A9%20%EA%B5%AC%ED%98%84).md) <br/>
 [23.04.03 (플레이어 공격 중 이동 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.03.25%20~%2023.04.03%20(3%EC%A3%BC%EC%B0%A8)/23.04.03%20(%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EA%B3%B5%EA%B2%A9%20%EC%A4%91%20%EC%9D%B4%EB%8F%99%20%EA%B5%AC%ED%98%84).md) <br/>
+
+
+### 4주차 (목표)
+* 플레이어 더블 점프 구현
+* 플레이어 스킬 UI 구현
+
+[23.04.05 (플레이어 더블 점프 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.04.04%20~%2023.04.10%20(4%EC%A3%BC%EC%B0%A8)/23.04.05%20(%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EB%8D%94%EB%B8%94%20%EC%A0%90%ED%94%84%20%EA%B5%AC%ED%98%84).md) <br/>
+
+
