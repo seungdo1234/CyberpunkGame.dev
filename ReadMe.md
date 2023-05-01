@@ -54,4 +54,8 @@
 [23.04.05 (플레이어 더블 점프 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.04.04%20~%2023.04.10%20(4%EC%A3%BC%EC%B0%A8)/23.04.05%20(%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EB%8D%94%EB%B8%94%20%EC%A0%90%ED%94%84%20%EA%B5%AC%ED%98%84).md) <br/>
 [23.04.10 (Enemy 체력 바 구현)](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.04.04%20~%2023.04.10%20(4%EC%A3%BC%EC%B0%A8)/23.04.10%20(Enemy%20%EC%B2%B4%EB%A0%A5%EB%B0%94%20%EA%B5%AC%ED%98%84).md) <br/>
 
+### 5~6주차
+* 정보처리기사 실기 준비로 개발 X
+
+### 7주차 
 
