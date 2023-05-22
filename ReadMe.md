@@ -63,4 +63,4 @@
 
 ### 8~9주차 
 
-[23.05.02 ~ 23.05.15 () ](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.05.02%20~%2023.05.15%20(8~9%EC%A3%BC%EC%B0%A8)/8~9%20%EC%A3%BC%EC%B0%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A0%95%EB%A6%AC.md) <br/>
+[23.05.02 ~ 23.05.15 (튜토리얼 스테이지, Teleport Attack 로직 수정, DangerLine ) ](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.05.02%20~%2023.05.15%20(8~9%EC%A3%BC%EC%B0%A8)/8~9%20%EC%A3%BC%EC%B0%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A0%95%EB%A6%AC.md) <br/>
