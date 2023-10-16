@@ -73,6 +73,6 @@
 
 [23.05.23 ~ 23.05.30 (11주차 개발 정리) ](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.05.23%20~%2023.05.30%20(11%EC%A3%BC%EC%B0%A8)/11%EC%A3%BC%EC%B0%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A0%95%EB%A6%AC.md) <br/>
 
-### 11주차
+### 12~13주차
 
-[23.05.23 ~ 23.05.30 (11주차 개발 정리) ](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.05.23%20~%2023.05.30%20(11%EC%A3%BC%EC%B0%A8)/11%EC%A3%BC%EC%B0%A8%20%EA%B0%9C%EB%B0%9C%20%EC%A0%95%EB%A6%AC.md) <br/>
+[23.05.31 ~ 23.06.13 (12 ~ 13주차 개발 정리) ](https://github.com/seungdo1234/CyberpunkGame.dev/blob/main/23.05.31%20~%2023.06.13%20(12%EC%A3%BC%EC%B0%A8~13%EC%A3%BC%EC%B0%A8)/12~13%EC%A3%BC%EC%B0%A8%20%EA%B0%9C%EB%B0%9C%EC%A0%95%EB%A6%AC.md) <br/>
