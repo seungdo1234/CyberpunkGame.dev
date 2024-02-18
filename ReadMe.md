@@ -1,7 +1,6 @@
 # CyberpunkGame.dev
 
-## 사이버 펑크 게임개발일지
-
+## [사이버 펑크 게임개발일지](https://github.com/seungdo1234/Cyberpunk_Game)  <br/>
 
 ### 1주차 (목표)
 * 플레이어 이동, 공격, 기본 UI 구현
